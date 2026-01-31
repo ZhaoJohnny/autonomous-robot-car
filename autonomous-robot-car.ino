@@ -2,27 +2,6 @@
 #include <WiFiUdp.h>
 
 // ===================== Motors =====================
-// Motor A (Left)
-int enA = 9;
-
-message.txt
-5 KB
-Lucca
-
- — Yesterday at 6:55 PM
-import java.net.*;
-
-// ================= UDP (Control) =================
-DatagramSocket controlSocket;
-InetAddress robotIP;
-int robotPort = 4210;
-
-message.txt
-9 KB
-#include <WiFiS3.h>
-#include <WiFiUdp.h>
-
-// ===================== Motors =====================
 int enA = 9;
 int in1 = 8;
 int in2 = 7;
